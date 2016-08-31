@@ -15,9 +15,15 @@
   },
   "permissions": [
     "activeTab",
+    "tabs",
     "contentSettings",
     "https://webpushtest:3001/*",
-    "http://webpushtest:3000/*"
+    "http://webpushtest:3000/*",
+    "https://nevada:3001/*",
+    "https://oregon:3001/*",
+    "http://washington:3000/*",
+    "https://127.0.0.1:3001/*",
+    "https://*.localhost:3001/*"
   ],
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp1T/yh67sGJNPC1onwfdtUMaH0DZG0qn0vBsn6tRU8RquszRmS1GCdRPxIISc8A9IEDCF68b5CvH3kKdm1Y+GthlHv5gOR3dmxZ8fzPi+Vke64qCG2gPNoF4l2D4BsKdyEFRfD8vzbM93LtPBTEv3slSzaTvNxhs2paeN5+HCBNs1TLplcSqOAmkQ5I0wf7ZQoipMxFHu00fiqVnqzTZUqGa6ym203LqApDoTNhgDPnjxB5rz4BYfQnKdh7uYNviAn2Z8x6rKYkSyHUI+rqILeRwN12nGLjyR1iO56UsItzmq1xC7eJmnTZ5Wy+KL12KFaDRJqSduEXA+FB6orZLlQIDAQAB",
   "externally_connectable": {
